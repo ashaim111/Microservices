@@ -1,0 +1,17 @@
+{
+    "name": "mmrp/microservice",
+    "description": "MMRP Microservice",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Sharim Ansari",
+            "email": "sharim@mymrplace.com"
+        }
+    ],
+    "minimum-stability" : "dev",
+    "prefer-stable": true,
+    "require": {
+        "prodigyview/prodigyview": "dev-master",
+        "mongodb/mongodb": "^1.8"
+    }
+}
